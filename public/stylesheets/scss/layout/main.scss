@@ -1,0 +1,33 @@
+.l-main {
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px;
+}
+
+.l-main-title {
+  color: #0d0015;
+  font-size: 16px;
+  text-align: center;
+}
+
+.l-main-subtitle {
+  color: #0d0015;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.index {
+  background: url("./../image/index.jpg") center center / cover no-repeat fixed;
+}
+
+.profile {
+  background: url("./../image/profile.jpg") center center / cover no-repeat fixed;
+}
+
+.papers {
+  background: url("./../image/papers.jpg") center center / cover no-repeat fixed;
+}
+
+.talks {
+  background: url("./../image/talks.jpg") center center / cover no-repeat fixed;
+}

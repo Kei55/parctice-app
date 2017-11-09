@@ -1,0 +1,22 @@
+.m-nav {
+  margin-top: 10px;
+}
+
+.m-nav-item {
+  background: #e2041b;
+  border-radius: 2px;
+  box-shadow: 0 0 1px rgba(255, 255, 255, .4) inset, 0 0 5px rgba(0, 0, 0, .4) inset, 0 0 2px rgba(0, 0, 0, .4);
+  float: left;
+  margin-right: 20px;
+  text-align: center;
+  width: 60px;
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.m-nav-item a {
+  color: #fce2c4;
+  display: block;
+  text-decoration: none;
+}

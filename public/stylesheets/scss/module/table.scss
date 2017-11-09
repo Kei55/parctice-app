@@ -1,0 +1,32 @@
+.m-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.m-table-row {
+  overflow: auto;
+}
+
+.m-table-row-header {
+  color: #0d0015;
+  display: block;
+  float: left;
+  font-weight: normal;
+  margin-right: 20px;
+  margin-top: 10px;
+  padding: 0;
+  text-align: right;
+  width: 60px;
+  word-break: break-all;
+}
+
+.m-table-row-data {
+  color: #0d0015;
+  display: block;
+  float: left;
+  margin-top: 10px;
+  padding: 0;
+  width: 220px;
+  word-break: break-all;
+}

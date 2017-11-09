@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  main.l-main
+    - for(key in main)
+      if key == "title"
+        h1.l-main-title !{main.title} 
+      else if key == "table"
+        table.l-main-table
+        - for(key in main.table)
+          tr.l-main-table-row
+            th.l-main-table-row-header !{main.table[key].header}
+            td.l-main-table-row-data !{main.table[key].data}
+      else if key == "subtitle"
+        p.l-main-subtitle !{main.subtitle}

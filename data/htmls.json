@@ -1,0 +1,119 @@
+{
+  "htmls": [
+    {
+      "html": "index",
+      "title": "Cpx Geom Takahashi - Ryosuke Takahashi's Site.",
+      "main": [
+        {
+          "title": "Ryosuke Takahashi's Site.",
+          "subtitle": "I'm a postdoctorial reseacher working at Tohoku University. I'm major in Kähler geometry (especially, the existence problem of canonical metrics), algebraic geometry and other related topics."
+        }
+      ]
+    },
+    {
+      "html": "profile",
+      "title": "Profile | Cpx Geom Takahashi",
+      "main": [
+        {
+          "title": "Profile",
+          "table": [
+            {
+              "header": "Name",
+              "data": "Ryosuke Takahashi"
+            },
+            {
+              "header": "Address",
+              "data": "Mathematical Institute, Tohoku University, 6-3, Aoba, Aramaki, Aoba-ku, Sendai, 980-8578, Japan"
+            },
+            {
+              "header": "Tel",
+              "data": "+81-22-795-6401"
+            },
+            {
+              "header": "Fax",
+              "data": "+81-22-795-6400"
+            },
+            {
+              "header": "Mail",
+              "data": "ryosuke.takahashi.a7@tohoku.ac.jp"
+            },
+            {
+              "header": "Education",
+              "data": "Doctor of Mathematical Science for a major in the Department of Mathematics at the Graduate School of Mathematics, Nagoya University (Supervisor: Ryoichi Kobayashi), March 2015<br>Master of Mathematical Science for a major in the Department of Mathematics at the Graduate School of Mathematics, Nagoya University (Supervisor: Ryoichi Kobayashi), March 2013<br>Bachelor of Science for major in the Department of Mathematics at School of Science, Nagoya University (Supervisor: Ryoichi Kobayashi), March 2011"
+            },
+            {
+              "header": "Career",
+              "data": "JSPS Research Fellowship for Young Scientists, Postdoctoral Fellow (Supervisor: Shigetoshi Bando), April 2016-present<br>JSPS Research Fellowship for Young Scientists, Postdoctoral Fellow (Supervisor: Ryoichi Kobayashi), April 2015-March 2016<br>JSPS Research Fellowship for Young Scientists, Doctoral Course Students (Supervisor: Ryoichi Kobayashi), April 2013-March 2015"
+            },
+            {
+              "header": "Awards",
+              "data": "Fiscal Year 2012 Prize by Graduate School of Mathematics (at Nagoya University)"
+            },
+            {
+              "header": "Scolarship",
+              "data": "Yoshida Scholarship Foundation Grant for Master's Students (Masters 21) , April 2011-March 2013"
+            },
+            {
+              "header": "Membership",
+              "data": "Member of the Mathematical Society of Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "html": "papers",
+      "title": "Papers | Cpx Geom Takahashi",
+      "main": [
+        {
+          "title": "Papers",
+          "table": [
+            {
+              "header": "Publications",
+              "data": "R. Takahashi, On the modified Futaki invariant of complete intersections in projective spaces, Nagoya Mathematical Journal, 222 (2016), 186-209 (arXiv: <a href='http://arxiv.org/pdf/1410.4891.pdf'>http://arxiv.org/pdf/1410.4891.pdf</a>)<br>R. Takahashi, Asymptotic stability for Kähler-Ricci solitons, Math. Zeit. 281(2015) 1021-1034 (arXiv: <a href='http://arxiv.org/pdf/1503.05668.pdf'>http://arxiv.org/pdf/1503.05668.pdf</a>)<br>R. Takahashi, Modified Kähler-Ricci flow on projective bundles, Math. Zeit. 281(2015), 395-413 (arXiv: <a href='http://arxiv.org/pdf/1403.0985.pdf'>http://arxiv.org/pdf/1403.0985.pdf</a>)"
+            },
+            {
+              "header": "Preprints",
+              "data": "R. Takahashi, Bergman iteration and \\(C^&infin;\\)-convergence towards Kähler-Ricci flow, preprint, arXiv: <a href='http://arxiv.org/pdf/1606.03019.pdf'>http://arxiv.org/pdf/1606.03019.pdf</a><br>S. Saito and R. Takahashi, Stability of anti-canonically balanced metrics, preprint, arXiv: <a href='http://arxiv.org/pdf/1607.05534.pdf'>http://arxiv.org/pdf/1607.05534.pdf</a>"
+            },
+            {
+              "header": "PhD thesis",
+              "data": "R. Takahashi, On the existence problem of Kähler-Ricci solitons, available at <a href='http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/22396'>http://ir.nul.nagoya-u.ac.jp/jspui/handle/2237/22396</a>, under the supervision of Prof. Ryoichi Kobayashi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "html": "talks",
+      "title": "Talks | Cpx Geom Takahashi",
+      "main": [
+        {
+          "title": "Talks",
+          "table": [
+            {
+              "header": "2016",
+              "data": "Bergman iteration and \\(C^&infin;\\)-convergence towards Kähler-Ricci flow, The 22th Symposium of Complex Geometry, Shiinoki Celtural Complex, Japan, 2, November, 2016<br>Bergman iteration and \\(C^&infin;\\)-convergence towards Kähler-Ricci flow, Seminar on geometry at Nagoya University, Nagoya University, Japan, 4, October, 2016<br>Bergman iteration and \\(C^&infin;\\)-convergence towards Kähler-Ricci flow, MSJ Autumn Meeting 2015, Kansai University, Japan, 15, September, 2016<br>Asymptotic stability for Kähler-Ricci solitons, The 2nd Japan-China geometry conference, China, 11, September, 2016<br>Bergman iteration and \\(C^&infin;\\)-convergence towards Kähler-Ricci flow, The 63th Symposium of Geometry, Okayama University, Japan, 28, August, 2016<br>Bergman iteration and \\(C^&infin;\\)-convergence towards Kähler-Ricci flow, geometric seminar at Tohoku University, Tohoku University, Japan, 26, July, 2016<br>An obstruction to the exisitence of anti-canonically balanced metrics on Fano manifolds (joint work with Shunsuke Saito(Univ. of Tokyo)), MSJ Spring Meeting 2016, University of Tsukuba, Japan, 18, March, 2016Asymptotic stability for Kähler-Ricci solitons, MSJ Spring Meeting 2016, University of Tsukuba, Japan, 18, March, 2016<br>On the existence problem of canonical metrics on Fano manifolds, Seminar at Kagawa University, Kagawa University, Japan, 6, February, 2016"
+            },
+            {
+              "header": "2015",
+              "data": "Asymptotic stability for Kähler-Ricci solitons, Geometric Colloquium, University of Tokyo, Japan, 2, October, 2015<br>Asymptotic stability for Kähler-Ricci solitons, MSJ Autumn Meeting 2015, Kyoto Sangyo University, Japan, 15, September, 2015<br>Asymptotic stabiliy for Kähler-Ricci solitons, Seminar on Geometry at Tokyo Institute of Technology, Tokyo Institute of Technology, Japan, 15, May, 2015<br>Asymptotic stabiliy for Kähler-Ricci solitons, Seminar on Geometry at Nagoya University, Nagoya University, Japan, 21, April, 2015<br>On the existence problem of Kähler-Einstein metrics, Workshop of graduate students from institute of mathematics vast Hanoi and Nagoya university, Tuan Chan Villa, Vietnam, 28, March, 2015<br>On the moified Futaki invariant of complete intersections in projective spaces, MSJ Spring Meeting 2015, Meijo University, Japan, 23, March, 2015<br>On the moified Futaki invariant of complete intersections in projective spaces, The 11th Mathematics Conference for Young Researchers, University of Hokkaido, Japan, 3, March, 2015"
+            },
+            {
+              "header": "2014",
+              "data": "On the moified Futaki invariant of complete intersections in projective spaces, The 20th Symposium of Complex Geometry, petite hotel SONNTAG, Japan, 5, November, 2014<br>Modified Kähler-Ricci flow on projective bundles, MSJ Autumn Meeting 2014, Hiroshima University, Japan, 27, September, 2014<br>Modified Kähler-Ricci flow on projective bundles, The 61th Symposium of Geometry, Meijo University, Japan, 25, August, 2014<br>Modified Kähler-Ricci flow on projective bundles, Seminar on Geometric Complex Analysis, University of Tokyo, Japan, 9, June, 2014<br>Modified Kähler-Ricci flow on projective bundles, The Workshop \"The Recent progress of Contact, Symplectic and Complex Geometry\", Nagoya University, Japan, 5, June, 2014"
+            },
+            {
+              "header": "2013",
+              "data": "A certain modification of Kähler-Ricci flow and its self-simular solutions, The 9th Mathematics Conference for Young Researchers, University of Hokkaido, Japan, 6, March, 2013<br>A certain modification of Kähler-Ricci flow and its self-simular solutions, Riemannian geometry and geometric analysis, University of Tsukuba, Japan, 22, February, 2013"
+            },
+            {
+              "header": "2012",
+              "data": "Generalization of Kähler-Ricci flow and its self-simular solutions, The Workship \"asymptotic expansion of Bergman kernel and complex geometry\", University of Tokyo, Japan, 11, August, 2012"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

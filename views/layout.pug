@@ -1,0 +1,18 @@
+doctype html
+- var htmls = jsonData;
+- var main = htmls.main[0];
+html(lang="ja")
+  head
+    meta(charset="UTF-8")
+    meta(name="keywords" content="Ryosuke Takahash, Cpx Geom Takahashi")
+    meta(name="description" content="Ryosuke Takahashi's Site.")
+    meta(name="author" content="midoribito")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    title !{htmls.title}
+    include ./common/_link
+    include ./common/_script
+  body
+    include ./common/_header
+    block content
+    include ./common/_footer
