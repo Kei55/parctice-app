@@ -6,6 +6,8 @@ var htmls = json.htmls;
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
+  var json = JSON.parse(fs.readFileSync('./data/htmls.json', 'utf8'));
+  var htmls = json.htmls;
   res.render('index', {jsonData: htmls[0] });
 });
 
