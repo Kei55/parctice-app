@@ -1,0 +1,155 @@
+@charset "UTF-8";
+@import url(~normalize.css);
+body {
+  background: #333;
+  color: #fff;
+  font-family: Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
+  font-size: 16px;
+  line-height: 1.5; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  margin: 0; }
+
+p {
+  margin: 0; }
+
+a {
+  color: #fff; }
+
+ul, ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+dl, dd {
+  margin: 0; }
+
+img {
+  display: block;
+  margin: 0; }
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:after, .cf:before {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
+
+.cf:after {
+  clear: both; }
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+  *zoom: 1; }
+
+.l-header {
+  background: #f39800;
+  box-shadow: 0 0 1px rgba(255, 255, 255, 0.4) inset, 0 0 5px rgba(0, 0, 0, 0.4) inset, 0 0 2px rgba(0, 0, 0, 0.4);
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px; }
+
+.l-header-title {
+  color: #fce2c4;
+  font-size: 24px;
+  text-align: center; }
+
+.l-main {
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px; }
+
+.l-main-title {
+  color: #0d0015;
+  font-size: 16px;
+  text-align: center; }
+
+.l-main-subtitle {
+  color: #0d0015;
+  margin-top: 10px;
+  text-align: center; }
+
+.index {
+  background: url("./../image/index.jpg") center center/cover no-repeat fixed; }
+
+.profile {
+  background: url("./../image/profile.jpg") center center/cover no-repeat fixed; }
+
+.papers {
+  background: url("./../image/papers.jpg") center center/cover no-repeat fixed; }
+
+.talks {
+  background: url("./../image/talks.jpg") center center/cover no-repeat fixed; }
+
+.l-footer {
+  background: #f39800;
+  box-shadow: 0 0 1px rgba(255, 255, 255, 0.4) inset, 0 0 5px rgba(0, 0, 0, 0.4) inset, 0 0 2px rgba(0, 0, 0, 0.4);
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px; }
+
+.l-footer-copy {
+  color: #fce2c4;
+  text-align: center; }
+
+.m-nav {
+  margin-top: 10px; }
+
+.m-nav-item {
+  background: #e2041b;
+  border-radius: 2px;
+  box-shadow: 0 0 1px rgba(255, 255, 255, 0.4) inset, 0 0 5px rgba(0, 0, 0, 0.4) inset, 0 0 2px rgba(0, 0, 0, 0.4);
+  float: left;
+  margin-right: 20px;
+  text-align: center;
+  width: 60px; }
+  .m-nav-item:last-child {
+    margin-right: 0; }
+
+.m-nav-item a {
+  color: #fce2c4;
+  display: block;
+  text-decoration: none; }
+
+.m-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed; }
+
+.m-table-row {
+  overflow: auto; }
+
+.m-table-row-header {
+  color: #0d0015;
+  display: block;
+  float: left;
+  font-weight: normal;
+  margin-right: 20px;
+  margin-top: 10px;
+  padding: 0;
+  text-align: right;
+  width: 60px;
+  word-break: break-all; }
+
+.m-table-row-data {
+  color: #0d0015;
+  display: block;
+  float: left;
+  margin-top: 10px;
+  padding: 0;
+  width: 220px;
+  word-break: break-all; }
+
+/*# sourceMappingURL=master.css.map */
