@@ -1,14 +1,14 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div#modal-content
   form(action="/login" method="post")
     div
         label ユーザーID：
-        input(type="text" name="username")
+        input(type="text" name="user_name")
     div
         label パスワード：
-        input(type="password" name="password")
+        input(type="password" name="user_password")
     div
         input(type="submit" value="ログイン")
+  p #{msg}

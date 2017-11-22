@@ -1,7 +1,11 @@
 doctype html
-html
+html(lang="ja")
   head
+    meta(charset="UTF-8")
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    include ./common/_link
+    include ./common/_script
   body
+    include ./common/_header
     block content
+    include ./common/_footer
