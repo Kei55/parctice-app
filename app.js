@@ -1,12 +1,13 @@
-var express = require('express');
-var path = require('path');
-var favicon = require('serve-favicon');
-var logger = require('morgan');
-var cookieParser = require('cookie-parser');
-var bodyParser = require('body-parser');
-var sassMiddleware = require('node-sass-middleware');
-var passport = require('passport');
-var LocalStrategy = require('passport-local').Strategy;
+const express = require('express');
+const path = require('path');
+const favicon = require('serve-favicon');
+const logger = require('morgan');
+const cookieParser = require('cookie-parser');
+const bodyParser = require('body-parser');
+const sassMiddleware = require('node-sass-middleware');
+const passport = require('passport');
+const LocalStrategy = require('passport-local').Strategy;
+const mysql = require('mysql');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
@@ -44,6 +45,7 @@ passport.use(
 			if(username == 'kama' && password == 'hagehage'){
 				//ログイン成功
 				//今回はここの判定式をハードコーディングにする
+        //DB接続追加予定
         		return done(null, username);
 			}
 

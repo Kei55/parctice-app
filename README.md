@@ -1,1 +1,7 @@
-"# parctice-app" 
+"# parctice-app"
+
+
+*pug
+*sass
+
+*mysql
